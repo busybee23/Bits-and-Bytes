@@ -1,5 +1,3 @@
-
-
 #include<iostream>
 using namespace std;
 bool mirror(int arr[],int n){
