@@ -1,5 +1,4 @@
-Question Link : https://hack.codingblocks.com/app/contests/2118/480/problem
-Video Link : https://youtu.be/QWxidMLN-s4
+
 
 #include<iostream>
 using namespace std;
