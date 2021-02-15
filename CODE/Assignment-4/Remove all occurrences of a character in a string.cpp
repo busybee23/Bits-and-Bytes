@@ -6,7 +6,6 @@ string removeCharRecursive(string str, char X) {
 	if (str[0] == X) return removeCharRecursive(str.substr(1), X); 	
 	return str[0] + removeCharRecursive(str.substr(1), X); 
 } 
-
 int main() 
 { 
 	ios_base::sync_with_stdio(false);
