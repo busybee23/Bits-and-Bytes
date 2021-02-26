@@ -8,4 +8,5 @@ Monday : 15-02-2020 : Doubt sessions, deadline extended till 20
 Thrusday : 18-02-2020 : Problem Solving ses
 Friday : 19-02-2020 : Problem Solving Ses again <br>
 Monday : 22-02-2020 : Skipped the class cause of exam
+Friday : No class today
 
