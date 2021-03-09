@@ -1,3 +1,4 @@
+'''link : https://youtu.be/_4PeOt_M2bc''' 
 #include<bits/stdc++.h> 
 using namespace std; 
 int power(int x, unsigned int y) 
