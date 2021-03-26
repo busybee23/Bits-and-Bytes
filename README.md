@@ -12,3 +12,5 @@ Friday : No class today
 Friday : 05-02-2020 : back to coding ( final exam done ) bit masking and bit operator today (need to rewatch videos) 
 Monday : 07-02-2020 : no class 
 Friday : 19-02-202 : recursion started
+Friday : 26-03-2021 : recursion finished with problems
+
