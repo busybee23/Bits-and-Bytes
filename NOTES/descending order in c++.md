@@ -1,5 +1,6 @@
-To print descending order sequence in c++ 
+## To print descending order sequence in C++ 
 Video : https://youtu.be/T7j-vEQ1RmQ
+
 ```
 #include<iostream>
 using namespace std;
