@@ -13,4 +13,4 @@ Friday : 05-02-2020 : back to coding ( final exam done ) bit masking and bit ope
 Monday : 07-02-2020 : no class 
 Friday : 19-02-202 : recursion started
 Friday : 26-03-2021 : recursion finished with problems
-
+Sunday : 28-03-2021 : had a 7-8 hour long qps discussed some vv imp question for text.
