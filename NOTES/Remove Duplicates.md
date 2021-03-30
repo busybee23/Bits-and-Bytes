@@ -1,3 +1,8 @@
+## Problem Statement : Remove duplicates from an sorted array 
+
+### Video : https://youtu.be/kdz4fagzlrE
+
+```
 #include<iostream>
 using namespace std; 
 
@@ -19,3 +24,4 @@ int main() {
     cout<< endl ;
     return 0;
 }
+```
