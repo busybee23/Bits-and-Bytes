@@ -11,7 +11,7 @@ int findcand(int arr[], int n)
             candidate = arr[i];
         }
         if(candidate==arr[i])
-        {
+        { 
             count++;
         }
         else 
