@@ -16,3 +16,4 @@ Friday : 26-03-2021 : recursion finished with problems <br>
 Sunday : 28-03-2021 : had a 7-8 hour long qps discussed some vv imp question for text. <br>
 Monday : 01-040-2021 : Recursion completed 
 Sunday : 4-4-2021 : did nothing less than a week remaining.
+Monday : 5-4-2021 : theory class on oops and memory allocation
