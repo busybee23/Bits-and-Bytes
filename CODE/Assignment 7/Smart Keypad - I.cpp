@@ -1,8 +1,9 @@
+// PhoneKeypad.cpp
 #include <iostream>
 using namespace std;
 
 char keys[][10] = {
-	" ", ".+@$", "abc", "def", "ghi", "jkl" , "mno", "pqrs" , "tuv", "wxyz"
+	"", "", "ABC", "DEF", "GHI", "JKL", "MNO", "PQRS", "TUV", "WXYZ"
 };
 
 void PhoneKeypad(char *in, int i, char *out, int j) {
