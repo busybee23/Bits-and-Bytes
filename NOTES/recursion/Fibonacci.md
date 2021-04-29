@@ -31,7 +31,7 @@ int main(){
 }
 ```
 
-## Method 2 ( DP ) :
+## Method 2 ( DP ) : (Top Down Approach)
 
 ```
 // { Driver Code Starts
@@ -78,4 +78,23 @@ int main() {
     }
     return 0;
 }
+```
+
+### Method 3 : D.P(Bottom Up Approach)
+
+```
+class Solution {
+  public:
+    long long int nthFibonacci(long long int n){
+        int dp[1000] ={0};
+        
+        dp[0]=0;
+        dp[1]=1;
+        
+        for(int i=2;i<=n;i++){
+            dp[i]=(dp[i-1]+dp[i-2])%1000000007;
+        }
+        return dp[n];
+    }
+};
 ```
